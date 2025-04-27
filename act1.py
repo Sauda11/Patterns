@@ -7,3 +7,4 @@ for i in range(n):    #rows  5
       #display result
         print("* ", end="")
     print()
+    

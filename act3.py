@@ -7,8 +7,8 @@ else:
 space = halfDiamRow-1
 
 #loop for upper part 
-for i in range(1, halfDiamRow+1): #loop for rows
-  for j in range(1, space+1): #loop for columns
+for i in range(1, halfDiamRow+1): #loop for rows   #1----4     3 times
+  for j in range(1, space+1): #loop for columns     #1-----3    2times
     print(end=" ")
   space = space-1
   num = 1
